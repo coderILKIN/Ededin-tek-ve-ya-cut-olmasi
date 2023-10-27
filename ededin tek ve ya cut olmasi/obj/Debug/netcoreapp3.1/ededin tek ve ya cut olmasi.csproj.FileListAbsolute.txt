@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\bin\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.exe
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\bin\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.deps.json
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\bin\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.runtimeconfig.json
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\bin\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\bin\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.dll
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\bin\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.pdb
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\obj\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\obj\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\obj\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\obj\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\obj\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\obj\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.dll
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\obj\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.pdb
+C:\Users\ilkin\source\repos\ededin tek ve ya cut olmasi\ededin tek ve ya cut olmasi\obj\Debug\netcoreapp3.1\ededin tek ve ya cut olmasi.genruntimeconfig.cache
